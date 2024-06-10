@@ -1,3 +1,7 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
 // prisma/schema.prisma
 datasource db {
   provider = "postgresql"
